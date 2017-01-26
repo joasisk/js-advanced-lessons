@@ -1,0 +1,25 @@
+{
+  "name": "good-morning-wasteland",
+  "version": "0.0.1",
+  "description": "awasome blog",
+  "main": "release.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/martinjirku/js-advanced-lessons.git"
+  },
+  "keywords": [
+    "awesome"
+  ],
+  "author": "dsg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/martinjirku/js-advanced-lessons/issues"
+  },
+  "homepage": "https://github.com/martinjirku/js-advanced-lessons#readme",
+  "dependencies": {
+    "total.js": "^2.3.0"
+  }
+}

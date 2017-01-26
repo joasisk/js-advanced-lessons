@@ -1,0 +1,4 @@
+*/node_modules/*
+*/*.pid
+*/**/public/css/styles.css
+*/**/tmp/**
